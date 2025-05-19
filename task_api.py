@@ -96,6 +96,7 @@ fake_users_db = {
 
 # Task names for pre-populated tasks
 task_names = [
+    "je teste l api",
     "Complete project requirements documentation",
     "Develop frontend UI components",
     "Set up database schema and models",
